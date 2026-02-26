@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.3f1
+CRC: 1217910326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ede77a515b10b8b6fe25a0c1baf7ac3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3795d0b0d3b0af1e202f057699c5c77a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2b1e4107bfcb147157fcda45f018f506
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d106a5e1bee19144fa42e4b3fb2022a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a226c8d32e4a1924aa50407ca98364b2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BlossomTree_02.prefab
+- Assets/BroadleafTree_05_Purple.prefab
+- Assets/BroadleafTree_05_Red.prefab
+- Assets/player.prefab
+Dependencies: []
